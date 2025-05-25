@@ -2,7 +2,7 @@
 Only for macOS — checks if locally installed Apps have a possible counterpart in Homebrew
 
 ## What it does
-Checks if locally installed Applications (in the `/Applications` folder) are **possibly** available in GitHub.
+Checks if locally installed Applications (in the `/Applications` folder) are **possibly** available in Homebrew.
 
 Please be aware that this script uses a best effort strategy, and it will certainly exhibit false negatives and false positives.
 
